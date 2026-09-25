@@ -1,5 +1,0 @@
-area: Recovery
-issues: []
-pr: 156790
-summary: Add data-volume-proportional search shard warm timeout heuristic
-type: enhancement

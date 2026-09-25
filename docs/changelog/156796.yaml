@@ -1,5 +1,0 @@
-area: ES|QL
-issues: []
-pr: 156796
-summary: Allows nested IN subqueries with FORK
-type: bug

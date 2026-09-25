@@ -1,5 +1,0 @@
-area: Security
-issues: []
-pr: 157693
-summary: Upgrade Apache Parquet to 1.18.0
-type: upgrade

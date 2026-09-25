@@ -1,5 +1,0 @@
-area: Searchable Snapshots
-issues: []
-pr: 159805
-summary: Fix duplicated/dropped buffers in Azure uploads
-type: bug

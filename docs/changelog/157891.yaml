@@ -1,6 +1,0 @@
-area: ES|QL
-issues:
- - 157863
-pr: 157891
-summary: Fix inference tolerate-failures race
-type: bug

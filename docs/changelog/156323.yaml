@@ -1,5 +1,0 @@
-area: Distributed
-issues: []
-pr: 156323
-summary: Lazy CC header materialization in VBCC
-type: enhancement

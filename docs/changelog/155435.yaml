@@ -1,5 +1,0 @@
-area: Search
-issues: []
-pr: 155435
-summary: Fix `bitmap_terms` clause and memory accounting
-type: bug

@@ -1,5 +1,0 @@
-area: Distributed
-issues: []
-pr: 155877
-summary: Introduce per-Azure-client `max_connection` parameter
-type: enhancement

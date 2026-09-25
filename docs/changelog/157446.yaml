@@ -1,5 +1,0 @@
-area: ES|QL
-issues: []
-pr: 157446
-summary: Allocate parquet I/O onto the heap
-type: enhancement

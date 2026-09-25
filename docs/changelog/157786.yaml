@@ -1,5 +1,0 @@
-pr: 157786
-summary: External dataset statistics are keyed by how the file is read
-area: ES|QL
-type: bug
-issues: []

@@ -1,5 +1,0 @@
-area: ES|QL
-issues: []
-pr: 158195
-summary: "ESQLDS: fix double release in Parquet `filterBlock`"
-type: bug

@@ -1,5 +1,0 @@
-area: Infra/Plugins
-issues: []
-pr: 155658
-summary: Allow configuring Fleet agent index shards
-type: enhancement

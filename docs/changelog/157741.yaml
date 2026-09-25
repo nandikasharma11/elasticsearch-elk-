@@ -1,6 +1,0 @@
-area: "ES|QL"
-issues:
- - 157675
-pr: 157741
-summary: Fixes bug with `geo_shapes` from H3 cells crossing dateline
-type: bug

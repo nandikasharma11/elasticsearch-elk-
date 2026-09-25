@@ -1,5 +1,0 @@
-area: ES|QL
-issues: []
-pr: 157269
-summary: Use skipper metadata to shortcut calculating field min/max values
-type: enhancement

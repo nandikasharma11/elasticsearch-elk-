@@ -1,5 +1,0 @@
-area: Infra/Scripting
-issues: []
-pr: 153435
-summary: Add Painless allocation annotations for Elasticsearch field-access allocators
-type: enhancement

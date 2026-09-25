@@ -1,2 +1,0 @@
-RoaringBitmap
-Copyright 2013-2024 the RoaringBitmap authors

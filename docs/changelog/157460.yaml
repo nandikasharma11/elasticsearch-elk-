@@ -1,6 +1,0 @@
-area: Distributed
-issues:
- - 157213
-pr: 157460
-summary: Fix heap retention when serializing large `Text` values
-type: bug

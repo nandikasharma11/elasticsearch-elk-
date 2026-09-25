@@ -1,5 +1,0 @@
-pr: 152666
-summary: "ES|QL: route field-sorted TopN to DOC partitioning"
-area: ES|QL
-type: enhancement
-issues: []

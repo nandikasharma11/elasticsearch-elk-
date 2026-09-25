@@ -1,5 +1,0 @@
-area: Inference
-issues: []
-pr: 157114
-summary: "[Inference API] Adds `region_display_name` to endpoint metadata regions"
-type: enhancement

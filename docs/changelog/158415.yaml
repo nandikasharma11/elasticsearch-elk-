@@ -1,5 +1,0 @@
-pr: 158415
-summary: Charge input-scaled `String` allocations
-area: Infra/Scripting
-type: enhancement
-issues: []

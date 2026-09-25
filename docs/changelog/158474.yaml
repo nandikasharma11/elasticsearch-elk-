@@ -1,5 +1,0 @@
-area: Security
-issues: []
-pr: 158474
-summary: Upgrade Apache `HttpClient` to v5 in security plugin
-type: upgrade

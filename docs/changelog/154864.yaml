@@ -1,6 +1,0 @@
-area: ES|QL
-issues:
- - 111483
-pr: 154864
-summary: Add option to BUCKET to include empty buckets
-type: feature

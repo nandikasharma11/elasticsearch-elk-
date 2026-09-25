@@ -1,5 +1,0 @@
-pr: 158880
-summary: Make a remote dataset invisible instead of failing the query
-area: ES|QL
-type: enhancement
-issues: []

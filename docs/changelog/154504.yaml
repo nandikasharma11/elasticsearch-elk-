@@ -1,5 +1,0 @@
-area: Allocation
-issues: []
-pr: 154504
-summary: Account for relocating shards when simulating shard movement
-type: bug
